@@ -6,7 +6,7 @@ John Conway's Game of Life using Swing and multithreading
 
 Created GUI with Swing, first time using it.
 
-Multithreading - first time
+Multithreading - first time working with it in Java.
 
 ### Details
 
@@ -14,7 +14,7 @@ Main difference from other versions is that border cells also have eight neighbo
 
 Seventh project created for JetBrains Academy Java Developer course - hard level project.
 
-Passed all unit tests for completion but the multithreading timing is not working correctly when users starts and stops the program.
+Passed all unit tests for completion but the multithreading timing is not working correctly when users starts and stops the program. The pause button doesn't immediately stop the game and the speeds up so that skips displaying many of the generations.  I will come back to this project after I have learned more about multithreading.
 
 #### The directory contains 4 files: 
 
