@@ -16,7 +16,7 @@ Main difference from other versions of the game is that border cells have eight 
 
 Model-view-controller design pattern used to structure the project.
 
-Passed all unit tests for completion but the multithreading timing is not working correctly.  When users start and stop the program, the pause button doesn't immediately stop the game and it speeds up so that skips displaying many of the generations.  I will come back to fix this project after I have learned more about multithreading.
+Passed all unit tests for completion but the multithreading timing is not working correctly.  When users start and stop the program, the pause button doesn't immediately stop the game and once it's restarted, it speeds up so fast that it skips displaying many of the generations.  I will come back to fix this project after I have learned more about multithreading.
 
 Seventh project created for JetBrains Academy Java Developer course - It was a medium level project when I built it but JetBrains changed it to a hard level project.
 
