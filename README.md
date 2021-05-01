@@ -4,7 +4,7 @@ John Conway's Game of Life using Swing and multithreading
 
 ## Things learned
 
-Created GUI with Swing, first time using it.
+Created a graphical user interface (GUI) with Swing, first time using it.
 
 Multithreading - first time working with it in Java.
 
