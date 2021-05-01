@@ -10,9 +10,9 @@ Multithreading - first time working with it in Java.
 
 ### Details
 
-Simple rules of the game: A cell with 2 or 3 neighbors survives to the next generation; otherwise, it dies of boredom (<2) or overpopulation (>3).
+Simple rules of the game: A cell with 2 or 3 neighbors survives to the next generation; otherwise, it dies of boredom (<2) or overpopulation (>3). A dead cell is reborn if it has exactly 3 neighbors.
 
-Main difference from other versions of the game is that border cells have eight neighbors. The screen wraps around to determine if the cell has enough neighbors to stay alive for the next generation.
+Main difference from other versions of the game is that border cells have eight neighbors. The screen wraps around to determine if the border cells have enough neighbors to stay alive for the next generation.
 
 Model-view-controller design pattern used to structure the project.
 
