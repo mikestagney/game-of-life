@@ -25,6 +25,8 @@ Passed all unit tests for completion but the multithreading timing is not workin
 
 ### How to play
 
-The game starts automatically with random cells alive or dead.  The user can either pause the game or reset the board to a new random configuration.
+The game starts automatically with random cells alive or dead.  The user can either pause the game or reset the board to a new random configuration. The game keeps track of the number of cells alive and the number of generations.
 
 ### Sample input and output:
+
+![screenshot](https://github.com/mikestagney/game-of-life/blob/main/Game%20of%20Life.png)
