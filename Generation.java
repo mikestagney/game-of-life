@@ -83,7 +83,7 @@ public class Generation {
                 nextGen[row][col] = false;
                 if (grid.getCell(row, col) && countOfNeighbors >= 2 && countOfNeighbors <= 3) {
                     nextGen[row][col] = true;
-                } else if (grid.getCell(row, col) && countOfNeighbors == 3) {
+                } else if (!grid.getCell(row, col) && countOfNeighbors == 3) {
                     nextGen[row][col] = true;
                 }
             }
