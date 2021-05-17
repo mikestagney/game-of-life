@@ -33,4 +33,5 @@ The game starts automatically with cells randomly alive or dead.  The user can e
 
 ### Sample input and output:
 
-![screenshot](https://github.com/mikestagney/game-of-life/blob/main/Game%20of%20Life.png)
+<img width="854" alt="Game of Life screen shot" src="https://user-images.githubusercontent.com/49824414/118568758-84e31380-b746-11eb-8380-28a570c7ac2b.png">
+
