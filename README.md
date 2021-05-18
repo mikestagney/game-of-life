@@ -37,3 +37,5 @@ The game starts automatically with cells randomly alive or dead.  The user can e
 
 <img width="851" alt="Game of Life image 2" src="https://user-images.githubusercontent.com/49824414/118569515-156e2380-b748-11eb-8223-ed8efb295ce8.png">
 
+<img width="739" alt="Game of Life image 3" src="https://user-images.githubusercontent.com/49824414/118575688-093c9300-b755-11eb-9384-2c650913471a.png">
+
